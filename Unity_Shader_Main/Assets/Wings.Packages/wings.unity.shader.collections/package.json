@@ -1,0 +1,22 @@
+{
+  "name": "com.wings.unity.shader.collections",
+  "version": "1.0.0",
+  "displayName": "Wings Unity Shader",
+  "description": "",
+  "unity": "2021.2",
+  "unityRelease": "18f1",
+  "documentationUrl": "https://github.com/wings/",
+  "changelogUrl": "https://github.com/wings/",
+  "licensesUrl": "https://github.com/wings/",
+  "dependencies": {
+  },
+  "keywords": [
+    "wings",
+    "shader"
+  ],
+  "author": {
+    "name": "Wings",
+    "email": "395085356@qq.com",
+    "url": "https://github.com/wings/"
+  }
+}
